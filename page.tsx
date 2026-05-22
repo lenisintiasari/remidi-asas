@@ -103,7 +103,7 @@ export default function Home() {
       {/* Contact */}
       <section
         id="contact"
-        className="py-20 px-6 text-center"
+        className="py-10 px-6 text-center"
       >
         <h2 className="text-4xl font-bold text-cyan-400 mb-6">
           Contact Us
